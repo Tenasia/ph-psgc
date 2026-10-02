@@ -76,6 +76,8 @@ Both scripts use only the Python standard library.
 
 ## Credits and licences
 
+- **This repository** (the build scripts and the way the files are put together): MIT licence,
+  see [LICENSE](LICENSE). The data inside keeps its own terms, below.
 - **PSGC codes and names:** Philippine Statistics Authority (PSA),
   [Philippine Standard Geographic Code](https://psa.gov.ph/classification/psgc). PSA's
   condition of use is to **credit PSA as the source** wherever you show this data.
